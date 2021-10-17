@@ -43,27 +43,20 @@ function Content(props) {
   if (!data) {
     return <div className="content">Checking Authentication...</div>
   } return (
-   
-    <Card centered> 
-      <Card.Content>
-    
-     
-      <Card.Header color='green'>Policy Reference</Card.Header>
-      <p> {data.policy.policy_reference} </p>
-      
-      <Card.Header>Cover Type</Card.Header>
- 
-      <p>{data.policy.cover}</p>
-    
-      <Card.Header>Car</Card.Header>
-      <p>{data.vehicle.make} {data.vehicle.model} {data.vehicle.model} {data.vehicle.reg}</p>
-      <Card.Header>Address</Card.Header>
-      <p>{data.policy.address.line_1} {data.policy.address.line_3} {data.policy.address.postcode}</p>
+     <Card centered> 
+        <Card.Content>  
+        <Card.Header color='green'>Policy Reference</Card.Header>
+          <p> {data.policy.policy_reference} </p>  
+        <Card.Header>Cover Type</Card.Header>
+          <p>{data.policy.cover}</p>
+        <Card.Header>Car</Card.Header>
+          <p>{data.vehicle.make} {data.vehicle.model} {data.vehicle.model} {data.vehicle.reg}</p>
+        <Card.Header>Address</Card.Header>
+          <p>{data.policy.address.line_1} {data.policy.address.line_3} {data.policy.address.postcode}</p>
 
-      <input type="button" className="ButtonClick" onClick={handleLogout} value="Logout" />
-      </Card.Content>
-    </Card>
-    
+        <input type="button" className="ButtonClick" onClick={handleLogout} value="Logout" />
+        </Card.Content>
+    </Card> 
   );
 }
  

@@ -49,8 +49,7 @@ function Login(props) {
         <input type="password" {...password} autoComplete="new-password" />
       </Form.Field>
       {error && <><small style={{ color: 'red' }}>{error}</small><br /></>}<br />
-      <input className="ButtonClick" type="button" value={loading ? 'Loading...' : 'Login'} onClick={handleLogin} disabled={loading} /><br />
-      
+      <input className="ButtonClick" type="button" value={loading ? 'Loading...' : 'Login'} onClick={handleLogin} disabled={loading} /><br />    
     </Form>
     </div>
   );
