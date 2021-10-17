@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/apilogin/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/apilogin/static/js/main.c93b0303.chunk.js",
-    "main.js.map": "/apilogin/static/js/main.c93b0303.chunk.js.map",
-    "runtime-main.js": "/apilogin/static/js/runtime-main.612a2a80.js",
-    "runtime-main.js.map": "/apilogin/static/js/runtime-main.612a2a80.js.map",
-    "static/css/2.8b5b330a.chunk.css": "/apilogin/static/css/2.8b5b330a.chunk.css",
-    "static/js/2.763e3de3.chunk.js": "/apilogin/static/js/2.763e3de3.chunk.js",
-    "static/js/2.763e3de3.chunk.js.map": "/apilogin/static/js/2.763e3de3.chunk.js.map",
-    "index.html": "/apilogin/index.html",
-    "static/css/2.8b5b330a.chunk.css.map": "/apilogin/static/css/2.8b5b330a.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/apilogin/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.763e3de3.chunk.js.LICENSE.txt": "/apilogin/static/js/2.763e3de3.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/apilogin/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.70a62ec7.chunk.js",
+    "main.js.map": "/static/js/main.70a62ec7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35576fab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35576fab.js.map",
+    "static/css/2.85f7760d.chunk.css": "/static/css/2.85f7760d.chunk.css",
+    "static/js/2.763e3de3.chunk.js": "/static/js/2.763e3de3.chunk.js",
+    "static/js/2.763e3de3.chunk.js.map": "/static/js/2.763e3de3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.85f7760d.chunk.css.map": "/static/css/2.85f7760d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.763e3de3.chunk.js.LICENSE.txt": "/static/js/2.763e3de3.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.612a2a80.js",
-    "static/css/2.8b5b330a.chunk.css",
+    "static/js/runtime-main.35576fab.js",
+    "static/css/2.85f7760d.chunk.css",
     "static/js/2.763e3de3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c93b0303.chunk.js"
+    "static/js/main.70a62ec7.chunk.js"
   ]
 }
