@@ -1,16 +1,20 @@
+html{
+  height:100%;
+}
+
 *{
 	box-sizing: border-box;
 	font-weight: 300;
 }
 
 .wrapper {
-  margin-top:20% !important;
+  padding-top:15% !important;
   display: flex;
   align-items: center;
 }
 
+
 .ButtonClick{
-  
     width: 140px;
     height: 45px;
     font-family: 'Roboto', sans-serif;

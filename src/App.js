@@ -1,5 +1,5 @@
-import React, { useState} from 'react';
-import { BrowserRouter, Switch, Route, NavLink } from 'react-router-dom';
+import React from 'react';
+import { BrowserRouter,  Route} from 'react-router-dom';
 import {Container } from 'semantic-ui-react'
 import Login from './components/Login';
 import Content from './components/Content';

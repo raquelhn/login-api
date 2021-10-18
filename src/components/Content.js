@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import {getToken, getUser, removeUserSession, getPolicyData,setPolicySession} from '../utils/Common';
-import { Card, Button} from 'semantic-ui-react'
+import { Card} from 'semantic-ui-react'
  
 import axios from 'axios';
 
