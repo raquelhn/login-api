@@ -8,3 +8,5 @@ I also look into bybits documentation to understand better how to make the api r
 2. It took me around three hours, because it was the first time I used a token from an api to validate the user authentication, before I only worked with firechat. Moreover I had so minor issues with the deployment.
 
 3. If I had more time I will have liked to look more into testing and the privacy on how to send the user data, which in case it didn't really matter consider the user and password was only dummy data.
+
+The website link: https://raquelhn.github.io/login-api/
